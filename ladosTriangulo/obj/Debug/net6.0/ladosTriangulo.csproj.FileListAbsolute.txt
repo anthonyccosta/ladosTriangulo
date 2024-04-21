@@ -1,0 +1,14 @@
+C:\Users\lenov\source\repos\ladosTriangulo\ladosTriangulo\bin\Debug\net6.0\ladosTriangulo.exe
+C:\Users\lenov\source\repos\ladosTriangulo\ladosTriangulo\bin\Debug\net6.0\ladosTriangulo.deps.json
+C:\Users\lenov\source\repos\ladosTriangulo\ladosTriangulo\bin\Debug\net6.0\ladosTriangulo.runtimeconfig.json
+C:\Users\lenov\source\repos\ladosTriangulo\ladosTriangulo\bin\Debug\net6.0\ladosTriangulo.dll
+C:\Users\lenov\source\repos\ladosTriangulo\ladosTriangulo\bin\Debug\net6.0\ladosTriangulo.pdb
+C:\Users\lenov\source\repos\ladosTriangulo\ladosTriangulo\obj\Debug\net6.0\ladosTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\source\repos\ladosTriangulo\ladosTriangulo\obj\Debug\net6.0\ladosTriangulo.AssemblyInfoInputs.cache
+C:\Users\lenov\source\repos\ladosTriangulo\ladosTriangulo\obj\Debug\net6.0\ladosTriangulo.AssemblyInfo.cs
+C:\Users\lenov\source\repos\ladosTriangulo\ladosTriangulo\obj\Debug\net6.0\ladosTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\lenov\source\repos\ladosTriangulo\ladosTriangulo\obj\Debug\net6.0\ladosTriangulo.dll
+C:\Users\lenov\source\repos\ladosTriangulo\ladosTriangulo\obj\Debug\net6.0\refint\ladosTriangulo.dll
+C:\Users\lenov\source\repos\ladosTriangulo\ladosTriangulo\obj\Debug\net6.0\ladosTriangulo.pdb
+C:\Users\lenov\source\repos\ladosTriangulo\ladosTriangulo\obj\Debug\net6.0\ladosTriangulo.genruntimeconfig.cache
+C:\Users\lenov\source\repos\ladosTriangulo\ladosTriangulo\obj\Debug\net6.0\ref\ladosTriangulo.dll
