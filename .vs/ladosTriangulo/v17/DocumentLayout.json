@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenov\\source\\repos\\ladosTriangulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC608244-A451-429B-87BE-CFF6982781F0}|ladosTriangulo\\ladosTriangulo.csproj|c:\\users\\lenov\\source\\repos\\ladostriangulo\\ladostriangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC608244-A451-429B-87BE-CFF6982781F0}|ladosTriangulo\\ladosTriangulo.csproj|solutionrelative:ladostriangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\source\\repos\\ladosTriangulo\\ladosTriangulo\\Program.cs",
+              "RelativeDocumentMoniker": "ladosTriangulo\\Program.cs",
+              "ToolTip": "C:\\Users\\lenov\\source\\repos\\ladosTriangulo\\ladosTriangulo\\Program.cs",
+              "RelativeToolTip": "ladosTriangulo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T14:25:16.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
